@@ -1,0 +1,27 @@
+{
+  "name": "@exordium/scss-backend",
+  "version": "0.0.1",
+  "description": "The backend sass/scss design for exordium.org or clients.exordium.org",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exordium-dev/scss-backend.git"
+  },
+  "keywords": [
+    "exordium",
+    "backend",
+    "scss",
+    "sass"
+  ],
+  "author": "FearGannicus",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/exordium-dev/scss-backend/issues"
+  },
+  "homepage": "https://github.com/exordium-dev/scss-backend#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.0"
+  }
+}
